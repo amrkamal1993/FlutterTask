@@ -41,5 +41,3 @@ class PostsScreen extends StatelessWidget {
     );
   }
 }
-
-//Text(posts[index].title.toString()) , Text(posts[index].body.toString())
